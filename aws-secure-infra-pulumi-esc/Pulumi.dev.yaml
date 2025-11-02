@@ -1,0 +1,5 @@
+config:
+  aws:region: us-east-1
+  aws-secure-infra-pulumi-esc:allowedCidr: 0.0.0.0/0
+  aws-secure-infra-pulumi-esc:dbPassword:
+    secure: "<ENCRYPTED BY PULUMI>"

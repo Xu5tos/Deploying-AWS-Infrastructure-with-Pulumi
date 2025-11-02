@@ -1,0 +1,6 @@
+name: aws-secure-infra-pulumi-esc
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Secure AWS Infrastructure with Pulumi ESC (RDS + S3 + SG)
